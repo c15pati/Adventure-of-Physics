@@ -10,7 +10,7 @@ A repository of the game adventure of physics. An educational RPG, themed around
 Για να παίξει κανείς το παιχνίδι πρέπει να κάνει download σε zip τον φάκελο και να τον κάνει extract. Το παιχνίδι τρέχει με το 
 αρχείο game.exe
 
-[Download του installer του παιχνιδιού] (https://www.dropbox.com/s/kd33b6o7jav7iiw/Diplomatiki2.exe?dl=0)
+[Download του installer του παιχνιδιού](https://www.dropbox.com/s/kd33b6o7jav7iiw/Diplomatiki2.exe?dl=0)
 
 
 <p align="center">
